@@ -23,13 +23,13 @@ I'm fluent in three (natural) languages: 🇬🇧 English, 🇳🇱 Dutch, and �
 <img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" width="60"/>&nbsp;&nbsp;&nbsp;<img aling="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="60" width="55"/>
 &nbsp;&nbsp;<img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="70" width="55"/>
 
-Currently learning... 
+Currently adapting to... 
 
 <img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20" width="20"/>&nbsp;&nbsp;<img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20" width="20"/>
 &nbsp;<img aling="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="25" width="30"/>
-
-<b>Always available for some coffee</b>
-
-<a href="https://linkedin.com/in/yukselbhazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukselbhazar" height="30" width="40" /></a>
+<hr>
+<b>Always available for some coffee on</b>
+&nbsp;
+<a href="https://linkedin.com/in/yukselbhazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukselbhazar" height="15" width="15" /></a>
 &nbsp; or &nbsp;
-<a href="https://twitter.com/yukselbhazar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="yukselbhazar" height="45" width="45" /></a>
+<a href="https://twitter.com/yukselbhazar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="yukselbhazar" height="25" width="25" /></a>
