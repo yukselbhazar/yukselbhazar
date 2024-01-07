@@ -31,5 +31,5 @@ Currently learning...
 <b>Always available for some coffee</b>
 
 <a href="https://linkedin.com/in/yukselbhazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukselbhazar" height="30" width="40" /></a>
-or
-<a href="https://twitter.com/yukselbhazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yukselbhazar" height="30" width="40" /></a>
+&nbsp; or &nbsp;
+<a href="https://twitter.com/yukselbhazar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="yukselbhazar" height="45" width="45" /></a>
