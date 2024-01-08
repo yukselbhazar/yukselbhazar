@@ -1,6 +1,6 @@
 <h2>Hello <s>World</s> You!</h2>
 
-My name is Hazar. I'm currently a student pursuing a Bachelor of Science degree in Information Technology, specializing in Cyber Security, at the University of Applied Sciences Utrecht - with a deep interest
+My name is Hazar. I'm currently a student pursuing a Bachelor of Science degree in Information Technology, specialising in Cybersecurity & Cloud, at the University of Applied Sciences Utrecht - with a deep interest
 in cryptography and accessible digital privacy. In addition to my studies, I'm actively engaged in the field as infra expert at <a href="https://www.guidion.nl" target="blank"/>Guidion</a>, where I work on maintaining, configuring, and troubleshooting coax, DSL, and fiber optic networks. 
 My role encompasses mostly the hardware and some software aspects of network management.
 
